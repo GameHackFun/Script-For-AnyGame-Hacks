@@ -1,0 +1,13 @@
+;gui = false 
+    <hd1>C:User/programs/retale/config,<hd2>
+  fasle 101010001010101
+;run .exe/bat type(no,admin/
+)
+    
+
+	};
+	this.hooks = {
+		network: null,
+		movement: null,
+		anticheat: null
+	};
